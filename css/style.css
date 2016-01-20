@@ -1,16 +1,26 @@
+body {
+	background: url("http://digitalresult.com/wp-content/uploads/2015/09/retro-vintage-hd-wallpapers-4.jpeg");
+	text-align: center;
+}
 h1 {
-	color: red;
-	font-family: Arial;
+	color: #F5BCA9;
+	font-family: Tahoma;
 	font-size: 20px;
 	font-weight: 200;
 }
 h2 {
-	color: black;
+	color: #FAAC58;
 	font-size: 16px;
+	text-transform: capitalize;
 }
 img {
-	border: 1px blue solid;
+	border: 3px #61210B inherit;
+	border-radius: 35px;
 }
 p {
-	color: yellow;
-	font-size: 14;
+	color: #F5F6CE;
+	font-size: 14px;
+}
+ul {
+	color: #FE642E;
+}
